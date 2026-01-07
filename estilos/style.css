@@ -19,17 +19,17 @@
   --texto: #222222;
   --texto-inverso: #ffffff;
   --destaque: #0077ff;
-  --destaque-inverso: #66bbff;
+  --destaque-inverso: #4dafff;
   --fundo-card: #ffffff;
 }
 
 body.escuro{
-  --fundo-principal: #222222;
-  --texto: #e0e0e0;
-  --texto-inverso: #333333;
-  --destaque: #ff5522;
-  --destaque-inverso: #a73917;
-  --fundo-card: #444444;
+  --fundo-principal: #2c2c2c;
+  --texto: #eeeeee;
+  --texto-inverso: #242323;
+  --destaque: #4a3a7a;
+  --destaque-inverso: #32255a;
+  --fundo-card: #353535;
 }
 
 body{
